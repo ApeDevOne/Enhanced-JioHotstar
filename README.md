@@ -1,4 +1,4 @@
 # Enhanced-JioHotstar
 
-![](https://github.com/ApeDevOne/Enhanced-JioHotstar/tree/main/src/images/menu.PNG)
-![](https://github.com/ApeDevOne/Enhanced-JioHotstar/tree/main/src/images/4khdr2.png)
+![Menu Image](https://raw.githubusercontent.com/ApeDevOne/Enhanced-JioHotstar/main/src/images/menu.PNG)
+![4K](https://raw.githubusercontent.com/ApeDevOne/Enhanced-JioHotstar/tree/main/src/images/4khdr2.png)
